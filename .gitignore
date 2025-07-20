@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Ignore environment and system files
+.env
+.env.*
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+>>>>>>> e7d6536 (Initial commit – Ma’at CRM backend)
