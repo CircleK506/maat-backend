@@ -7,7 +7,7 @@ supabase # Official Supabase Python client
 # If your code specifically imports from 'supabase_py' instead of 'supabase',
 # uncomment the line below and remove the line above:
 # supabase-py
-
+typing-inspect
 pydantic>=2.0 # Ensure Pydantic is updated for FastAPI 0.110.0 compatibility
 email_validator # For email validation in Pydantic models
 fastapi-utils==0.8.0 # For utilities like BackgroundTasks from fastapi_utils
